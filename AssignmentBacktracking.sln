@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NQueens", "NQueens\NQueens.csproj", "{4EEC61C7-AA4B-4652-A5BA-438E12ED1E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KNights", "KNights\KNights.csproj", "{28B7B29A-F31A-4EC5-A119-34AAE0DA90DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EEC61C7-AA4B-4652-A5BA-438E12ED1E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEC61C7-AA4B-4652-A5BA-438E12ED1E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEC61C7-AA4B-4652-A5BA-438E12ED1E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEC61C7-AA4B-4652-A5BA-438E12ED1E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B7B29A-F31A-4EC5-A119-34AAE0DA90DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B7B29A-F31A-4EC5-A119-34AAE0DA90DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B7B29A-F31A-4EC5-A119-34AAE0DA90DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B7B29A-F31A-4EC5-A119-34AAE0DA90DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {349C7111-7BAB-47A3-A67F-E968D6859E67}
+	EndGlobalSection
+EndGlobal
